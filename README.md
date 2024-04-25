@@ -6,7 +6,7 @@ There are two part of this project: one is the notebook for wine quality analysi
 
 # The wine quality prediction App:
 You can check any wine quality with modifying the wine features parameters on the left side. The quality class starting from 3 to 9 while 3 is the lowest and 9 is the highest. Under the prection section, you can see what wine quality class.
-
+![wine_quality_prediction_app](https://github.com/lynsitu/Wine_Quality_PredicationApp/assets/61662998/cce60f6c-2548-44ea-ab4b-70f1bc5117de)
 
 
 # How to run the app on your local machine:
